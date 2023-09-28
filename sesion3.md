@@ -24,6 +24,8 @@ Genera un nuevo cuaderno en Google Colab y añade cuatro bloques de código, asi
 
 ![Lista](https://firebasestorage.googleapis.com/v0/b/prueba-64c31.appspot.com/o/listas.png?alt=media&token=82c14e90-2266-488c-9057-de20be3b4952)
 
+
+
 ### Tuplas
 
 1. Crea una tupla que contenga las palabras "Hola", "mundo" y "Python".
